@@ -113,16 +113,6 @@ Adjust preprocessing to match training transforms (grayscale vs RGB, normalizati
 - Address class imbalance with weighted loss, oversampling, or focal loss if necessary.
 - Save training logs (e.g., TensorBoard, Weights & Biases) for reproducibility.
 
-## License & contact
+## Contact
 
-- License: Add a LICENSE file (MIT recommended for permissive use).
-- Author: daman-botg — https://github.com/daman-botg
-
-Next steps I can take for you:
-- Add and commit this README to the repository,
-- Generate a requirements.txt or environment.yml,
-- Add a short inference notebook or script (PyTorch),
-- Add training checkpoint saving/loading and a small eval notebook,
-- Add a GitHub Actions workflow to run basic tests.
-
-Which of these would you like me to do next?
+- Author: Guhan Venkat — https://github.com/daman-botg
